@@ -20,6 +20,17 @@ Players complete five short training levels covering:
 
 Each level includes two interactive scratch-off knowledge checks. Players then complete a 10-question final quiz and receive a downloadable, personalized *Nutritional Facts* certificate.
 
+## Screenshots
+
+### Knowledge Check Correct
+![Knowledge Check Correct](nosko-happy.png)
+
+### Knowledge Check Incorrect
+![Knowledge Check Incorrect](nosko-sad.png)
+
+### Completion
+![Completion Screen](completion.png)
+
 ## Technologies
 
 - JavaScript, HTML, and CSS
